@@ -1,4 +1,5 @@
 food.html
 #config.json
 *.txt
+!test2.txt
 /temp
